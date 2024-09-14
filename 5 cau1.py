@@ -59,3 +59,4 @@ B1=Button(w,text='nhap DL',command=nhapDL).grid(column=0,row=4)
 B2=Button(w,text='tinh toan',command=tinhtoan).grid(column=1,row=4)
 Lkq=Label(w)
 w.mainloop()
+test code 123
