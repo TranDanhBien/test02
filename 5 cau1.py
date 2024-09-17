@@ -60,3 +60,4 @@ B2=Button(w,text='tinh toan',command=tinhtoan).grid(column=1,row=4)
 Lkq=Label(w)
 w.mainloop()
 test code 123
+1213123
